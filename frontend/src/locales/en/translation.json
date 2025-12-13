@@ -1,0 +1,115 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "projects": "Projects",
+    "team": "Team",
+    "careers": "Careers",
+    "contact": "Contact"
+  },
+
+  "home": {
+    "title": "Welcome to our company",
+    "subtitle": "We provide professional and high-quality solutions",
+    "button": "Learn more"
+  },
+
+  "about": {
+    "content": "We are a company offering modern technology solutions focused on innovation and efficiency.",
+    "title": "About NovaTech",
+    "subtitle": "Who we are and how we work.",
+    "p1": "NovaTech Consulting is a technology and design partner helping organizations build digital products that are intuitive, scalable, and reliable.",
+    "p2": "We bring together senior engineers, product thinkers, and designers to turn complex problems into simple, elegant solutions.",
+    "p3": "Our mission is to empower teams with technology that truly works for people, while our vision is to become the go-to partner for mission-critical digital initiatives worldwide.",
+    "coreValuesTitle": "Core values",
+    "values": {
+      "v1": "Human-centered design over technology for its own sake.",
+      "v2": "Transparency and long-term partnerships.",
+      "v3": "Quality, maintainability, and craftsmanship.",
+      "v4": "Continuous learning and knowledge sharing."
+    }
+  },
+
+  "services": {
+    "title": "Our Services",
+    "web": "Web Development",
+    "mobile": "Mobile Development",
+    "design": "UI/UX Design",
+    "consulting": "Solution Consulting",
+    "subtitle": "We combine strategy, design, and engineering to deliver end-to-end digital solutions.",
+    "empty": "No services found. Add services via API or directly in the database.",
+    "defaultIcon": "Service"
+  },
+
+  "projects": {
+    "title": "Featured Projects",
+    "description": "We have completed many projects with partners domestically and internationally.",
+    "subtitle": "A selection of initiatives where we have partnered with clients to ship impactful products.",
+    "empty": "No projects found. Add projects via API or directly in the database.",
+    "clientNDA": "Client NDA",
+    "unknownDate": "Unknown",
+    "asset": "Asset"
+  },
+
+  "team": {
+    "title": "Our Team",
+    "description": "Our team consists of experienced and highly skilled professionals.",
+    "subtitle": "A multidisciplinary group of designers, engineers, and strategists.",
+    "empty": "No team members found. Add members via API or database."
+  },
+
+  "careers": {
+    "title": "Career Opportunities",
+    "description": "Join our team and grow your career with us.",
+    "subtitle": "Join a team that cares deeply about people, craft, and impact.",
+    "noJobs": "No open positions at the moment. Check back soon.",
+    "remote": "Remote",
+    "requirements": "Requirements",
+    "apply": "Apply now"
+  },
+
+  "contact": {
+    "title": "Contact",
+    "description": "If you have any questions, feel free to send us a message.",
+    "name": "Your name",
+    "email": "Your email",
+    "message": "Message",
+    "button": "Send"
+  },
+
+  "footer": {
+    "rights": "© 2025 Your Company. All rights reserved."
+  },
+
+  
+  "hero": {
+  "badge": "Trusted Software Partner",
+  "title": "We build scalable digital solutions",
+  "subtitle": "Custom software, cloud systems, AI automation and more.",
+  "contactButton": "Contact us",
+  "servicesButton": "Our services",
+
+  "card": {
+    "heading": "Trusted by teams worldwide",
+    "stat1": {
+      "value": "+120%",
+      "text": "Average ROI after 12 months."
+    },
+    "stat2": {
+      "value": "50+ projects",
+      "text": "Delivered across 8 industries."
+    },
+    "stat3": {
+      "value": "24/7",
+      "text": "Global support coverage."
+    },
+    "stat4": {
+      "value": "A-level",
+      "text": "Client satisfaction rating."
+    }
+  }
+}
+}
+
+

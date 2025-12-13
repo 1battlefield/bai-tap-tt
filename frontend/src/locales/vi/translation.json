@@ -1,0 +1,113 @@
+{
+  "navbar": {
+    "home": "Trang chủ",
+    "about": "Giới thiệu",
+    "services": "Dịch vụ",
+    "projects": "Dự án",
+    "team": "Đội ngũ",
+    "careers": "Tuyển dụng",
+    "contact": "Liên hệ"
+  },
+
+  "home": {
+    "title": "Chào mừng đến với công ty chúng tôi",
+    "subtitle": "Chúng tôi mang đến giải pháp chuyên nghiệp và chất lượng",
+    "button": "Xem thêm"
+  },
+
+  "about": {
+    "title": "Giới thiệu về chúng tôi",
+    "content": "Chúng tôi là một công ty cung cấp các giải pháp công nghệ hiện đại, hướng đến sự đổi mới và hiệu quả.",
+    "subtitle": "Chúng tôi là ai và cách chúng tôi làm việc.",
+    "p1": "NovaTech Consulting là đối tác công nghệ và thiết kế giúp các tổ chức xây dựng sản phẩm số trực quan, mở rộng tốt và đáng tin cậy.",
+    "p2": "Chúng tôi tập hợp các kỹ sư kỳ cựu, chuyên gia sản phẩm và nhà thiết kế để biến các vấn đề phức tạp thành giải pháp đơn giản, tinh gọn.",
+    "p3": "Sứ mệnh của chúng tôi là hỗ trợ các đội ngũ bằng công nghệ hoạt động hiệu quả cho con người, và tầm nhìn là trở thành đối tác hàng đầu cho các dự án số quan trọng trên toàn cầu.",
+    "coreValuesTitle": "Giá trị cốt lõi",
+    "values": {
+      "v1": "Thiết kế lấy con người làm trung tâm thay vì chạy theo công nghệ.",
+      "v2": "Minh bạch và hợp tác lâu dài.",
+      "v3": "Chất lượng, khả năng bảo trì và sự tỉ mỉ.",
+      "v4": "Học hỏi liên tục và chia sẻ kiến thức."
+    }
+  },
+
+  "services": {
+    "title": "Dịch vụ của chúng tôi",
+    "web": "Phát triển Web",
+    "mobile": "Phát triển Mobile",
+    "design": "Thiết kế UI/UX",
+    "consulting": "Tư vấn Giải pháp",
+    "subtitle": "Chúng tôi kết hợp chiến lược, thiết kế và kỹ thuật để tạo ra các giải pháp số trọn gói.",
+    "empty": "Không có dịch vụ nào. Hãy thêm dữ liệu qua API hoặc trực tiếp trong cơ sở dữ liệu.",
+    "defaultIcon": "Dịch vụ"
+  },
+
+  "projects": {
+    "title": "Các dự án nổi bật",
+    "description": "Chúng tôi đã thực hiện nhiều dự án lớn nhỏ với đối tác trong và ngoài nước.",
+    "subtitle": "Danh sách những dự án mà chúng tôi đã hợp tác cùng khách hàng để tạo ra sản phẩm có tác động thực sự.",
+    "empty": "Không có dự án nào. Hãy thêm dự án qua API hoặc trực tiếp trong cơ sở dữ liệu.",
+    "clientNDA": "Khách hàng (NDA)",
+    "unknownDate": "Không rõ",
+    "asset": "Tệp đính kèm"
+  },
+
+  "team": {
+    "title": "Đội ngũ của chúng tôi",
+    "description": "Chúng tôi sở hữu đội ngũ chuyên gia với kinh nghiệm và chuyên môn cao.",
+    "subtitle": "Nhóm đa lĩnh vực gồm các nhà thiết kế, kỹ sư và chuyên gia chiến lược.",
+    "empty": "Chưa có thành viên nào. Hãy thêm qua API hoặc cơ sở dữ liệu."
+  },
+
+  "careers": {
+    "title": "Cơ hội nghề nghiệp",
+    "description": "Gia nhập đội ngũ của chúng tôi và phát triển sự nghiệp của bạn.",
+    "subtitle": "Tham gia vào đội ngũ tận tâm vì con người, sản phẩm và giá trị.",
+    "noJobs": "Hiện chưa có vị trí tuyển dụng. Vui lòng quay lại sau.",
+    "remote": "Làm việc từ xa",
+    "requirements": "Yêu cầu",
+    "apply": "Ứng tuyển ngay"
+  },
+
+  "contact": {
+    "title": "Liên hệ",
+    "description": "Nếu bạn có bất kỳ câu hỏi nào, hãy gửi tin nhắn cho chúng tôi.",
+    "name": "Tên của bạn",
+    "email": "Email của bạn",
+    "message": "Tin nhắn",
+    "button": "Gửi"
+  },
+
+  "footer": {
+    "rights": "© 2025 Công ty của bạn. Bảo lưu mọi quyền."
+  },
+  
+
+  "hero": {
+  "badge": "Đối tác phần mềm đáng tin cậy",
+  "title": "Chúng tôi xây dựng giải pháp số tối ưu",
+  "subtitle": "Phần mềm theo yêu cầu, hệ thống cloud, tự động hoá AI và nhiều hơn nữa.",
+  "contactButton": "Liên hệ",
+  "servicesButton": "Dịch vụ",
+
+  "card": {
+    "heading": "Được tin dùng bởi các đội nhóm toàn cầu",
+    "stat1": {
+      "value": "+120%",
+      "text": "Lợi nhuận trung bình sau 12 tháng."
+    },
+    "stat2": {
+      "value": "50+ dự án",
+      "text": "Triển khai trên 8 ngành khác nhau."
+    },
+    "stat3": {
+      "value": "24/7",
+      "text": "Hỗ trợ khách hàng toàn thời gian."
+    },
+    "stat4": {
+      "value": "A-level",
+      "text": "Mức độ hài lòng của khách hàng."
+    }
+  }
+}
+}
