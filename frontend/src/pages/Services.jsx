@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import SectionContainer from '../components/SectionContainer';
 import { getServices } from '../services/api';
 import { useTranslation } from 'react-i18next';
+import { serviceImages } from '../assets/services';
 
 const Services = () => {
   const [services, setServices] = useState([]);
@@ -9,27 +10,34 @@ const Services = () => {
 
   useEffect(() => {
     getServices()
-      .then((res) => setServices(res.data))
-      .catch((err) => console.error(err));
+      .then((res) => {
+        console.log('SERVICES:', res.data);
+        setServices(res.data);
+      })
+      .catch((err) => console.error('SERVICE ERROR:', err));
   }, []);
 
   return (
     <SectionContainer
-      title={t("services.title")}
-      subtitle={t("services.subtitle")}
+      title={t('services.title')}
+      subtitle={t('services.subtitle')}
     >
       <div className="card-grid">
-        {services.length === 0 && (
-          <p style={{ color: '#6b7280', fontSize: '0.9rem' }}>
-            {t("services.empty")}
-          </p>
-        )}
-
         {services.map((service) => (
           <div key={service.id} className="card">
-            <div className="chip" style={{ marginBottom: '0.6rem' }}>
-              {service.icon || t("services.defaultIcon")}
-            </div>
+            {/* IMAGE */}
+            <img
+              src={serviceImages[service.id]}
+              alt={service.name}
+              style={{
+                width: '100%',
+                height: 160,
+                objectFit: 'cover',
+                borderRadius: '0.75rem',
+                marginBottom: '0.75rem',
+              }}
+            />
+
             <div className="card-title">{service.name}</div>
             <div className="card-text">{service.description}</div>
           </div>
